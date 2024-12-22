@@ -1,0 +1,120 @@
+body { font-size: 13px !important; }
+.navbardiv { background-color: #1D2632; }
+.paypremium-btn { background: none; border: 1px solid #fff; color: #fff; border-radius: 2px; padding: 5px 10px; margin-right: 15px; }
+.login-btn { box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; background-color: #fff; padding: 5px 15px; border: none; border-radius: 2px; }
+.searchspan { border-right: 1px solid #757474; border-left: 1px solid #757575; padding: 1px 8px; margin: 0 15px; }
+.header-top .col-sm-4 a { vertical-align: -webkit-baseline-middle; }
+.bi-chevron-down { font-size: 8px; padding-right: .3rem !important; padding-left: .3rem !important; }
+.abtkotak::before { content: ''; height: 13px; width: 1px; display: inline-block; background-color: #6d6d6d; position: relative; left: -19px; top: 3px; }
+.outerlinesimages { transition: all ease-out 0.5s; position: relative; width: 20% !important; text-align: center; border-right: 2px solid #474747; z-index: 1; }
+.outerlinesimages .sphereball, .outerlinesimages p, .outerlinesimages .text-ban { color: #fff; z-index: 1; position: relative; font-weight: 500; bottom: -55%; }
+    .details-box h6 { font-size: 15px; color: #636363; font-weight: 400; }
+.outerlinesimages .ballIcon .sphereball { width: 50px; height: 48px; position: absolute; display: inline-block; border-radius: 100%; top: 2px; opacity: 0.8; box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; }
+.Teaminsurance .ballIcon .sphereball { background: linear-gradient(#FF000F, #1890FF, #18F1FF); }
+.retirementplan .ballIcon .sphereball { background: linear-gradient(#0029B9, #00E0FF, #DE14FF); }
+.ulipplan .ballIcon .sphereball { background: linear-gradient(#BD00FF, #2B18FF, #8E2828); }
+.savingsplan .ballIcon .sphereball { background: linear-gradient(#6CB523, #FF7918, #FF18A3); }
+.healthplans .ballIcon .sphereball { background: linear-gradient(#CCFF00, #88AE36, #0BA524); }
+.lifetime-plans .ballIcon .sphereball { background: linear-gradient(#0029B9, #00E0FF, #DE14FF); }
+.assured-plans .ballIcon .sphereball { background: linear-gradient(#BD00FF, #2B18FF, #8E2828); }
+.hoveBanner-section h1 strong { font-size: 4rem; font-weight: 500; }
+.hoveBanner-section h1 { font-weight: 200; font-size: 4rem; }
+.lifetime-plans, .assured-plans { cursor: pointer; padding: 40px 30px 0 !important; position: relative; background-color: #fff; border-radius: 25px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px; }
+.learnmore-btn { background: none; border: 1px solid #fff; border-radius: 3px; color: #fff; padding: 5px 15px; margin: 10px 0; }
+.lifetime-plans .ballIcon, .assured-plans .ballIcon { position: absolute; top: -23px; right: 40%; }
+.lifetime-plans h2, .assured-plans h2 { color: #1e4679; font-weight: bold; font-size: 1.5rem !important; }
+.lifetime-plans button, .assured-plans button { border: none; background-color: #1e4679; color: #fff; border-radius: 2px; position: absolute; bottom: 0; width: 100%; left: 0; padding: 8px; font-weight: 600; border-bottom-left-radius: 25px; border-bottom-right-radius: 25px; }
+.details-box p, .details-box strong { font-size: 22px; }
+.calenderspan { position: relative; }
+    .calenderspan i { position: absolute; top: -1px; left: 12px; color: #989797; }
+.viewpricesspan { position: relative; }
+    .viewpricesspan button { border: none; background-color: #ED3237; border-radius: 3px; color: #fff; padding: 8px 30px 8px 15px; font-size: 13px; font-weight: 500; }
+.terms-support span { color: #ED3237; font-size: 13px; margin: 0 3px; }
+.ortext { font-size: 12px !important; color: #ccc !important; }
+.bi-star-fill { color: #41b0d1; }
+    .bi-star-fill:last-child { color: #eaeaea; }
+.close-btn { position: absolute; top: 30px; right: 30px; background-color: #fff; border-radius: 70%; width: 40px; height: 40px; text-align: center; }
+    .close-btn i { color: #1E4679; font-size: 20px; line-height: 2; }
+.darkbluerect { height: 300px; display: inline-block; position: absolute; right: 0px; bottom: 60px; border-left: 45px solid #0e56b9; border-top: 45px solid transparent; border-bottom: 45px solid transparent; }
+.skybluerect { height: 300px; display: inline-block; position: absolute; right: 18px; bottom: 0; border-right: 40px solid #41b0d1; border-top: 45px solid transparent; opacity: 0.8; z-index: 1; }
+.violetrect { height: 300px; display: inline-block; position: absolute; right: 45px; bottom: 110px; border-right: 40px solid #575ab6; border-top: 45px solid transparent; border-bottom: 44px solid transparent; opacity: 0.8; z-index: 1; }
+.onlyrect { position: absolute;height: 609px;width: 0;border-right: 42px solid transparent;border-top: 55px solid transparent;border-bottom: 4px solid transparent;border-left: 90px solid #458eca;display: inline-block;bottom: 0px;right: 0px; }
+    .onlyrect:before { content: "";position: absolute;top: -52px;left: -87px;border-right: 38px solid transparent;border-top: 55px solid transparent;border-bottom: 4px solid transparent;border-left: 85px solid #247ac1;height: 590px;}
+.hoverdetails { background-color: #247ac1; position: absolute; right: 0; min-height:700px;}
+.hoverdetails { padding: 45px 60px !important; }
+.sphereimage { position: absolute; z-index: 1002; top: 12px; }
+.heart { font-size: 16px; position: relative; right: -18px; top: -5px; }
+.family { position: relative; top: 6px; right: 6px; }
+.shieldchk { position: relative; right: 18px; top: 2px; }
+.redcylinder { height: 23px; right: 0px; display: inline-block; position: absolute; bottom: 110px; border-right: 3px solid #ED3237; border-top: 4px solid transparent; border-bottom: 4px solid transparent; opacity: 0.8; z-index: 1; }
+.bluecylinder { height: 23px; top: 113px; right: -5px; display: inline-block; position: absolute; bottom: 110px; border-left: 3px solid #247AC1; border-top: 4px solid transparent; border-bottom: 4px solid transparent; opacity: 0.8; z-index: 1; }
+.Teaminsurance .redcylinder { top: 70%; }
+.Teaminsurance .bluecylinder { top: 68%; }
+.retirementplan .redcylinder { top: 17%; }
+.retirementplan .bluecylinder { top: 15%; }
+.ulipplan .redcylinder { top: 48%; }
+.ulipplan .bluecylinder { top: 46%; }
+.savingsplan .redcylinder { top: 25%; }
+.savingsplan .bluecylinder { top: 23%; }
+.bi-arrow-right-short { font-size: 20px; position: absolute; top: -4px; right: 6px; }
+.custom-width-16 { width: 17.5% !important; transition: all ease-out 0.3s; background: rgba(10, 14, 20, 0.9); opacity: 0.4; }
+.custom-width-30 { width: 30% !important; transition: all ease-out 0.3s; cursor: pointer; }
+.outerlinesimages:last-child { border-right: none; }
+.hoverban { flex: 0 0 100%; padding: 0; }
+    .hoverban img { transform-origin: center; width: 1026px; height: 800px; object-fit: cover; object-position: 35% 100%; }
+.hoverbandup { position: relative; z-index: 1002; }
+    .hoverbandup .blueoverlay { position: absolute; top: 0; background: linear-gradient(to bottom, transparent, #23bbf9); height: 100%; }
+.bluelaydetails { position: relative; top: 50%; padding: 0 20px; }
+    .bluelaydetails button { background: none; border: 1px solid #fff; color: #fff; padding: 5px 10px; border-radius: 2px; margin-top: 15px; }
+.redboldcylinder { position: absolute; height: 90px; width: 0; border-top: 10px solid transparent; border-bottom: 11px solid transparent; border-right: 10px solid red; display: inline-block; bottom: 40px; right: 0px; }
+.bluelaydetails button:hover { background-color: #fff; color: #1E4679; transition: all ease-out 0.1s; }
+.bluroverlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(10, 14, 20, 0.9); z-index: 10000; opacity: 0.4; }
+.custom-width-100{width:100% !important;}
+.hoveBanner-section { margin: 40px 0px 0px 0px !important; }
+.custom-left-negative-14 { position: relative; left: -14%; height:auto !important;}
+.lifetime-plans, .assured-plans{display: inline-block;}
+.lifetime-assured-pans .col-sm-4{width:28% !important;}
+.kotaktext { font-size: 21px; font-weight: normal; }
+.plans {color: #333;display: block;text-align: center; }
+.transitionown{transition: all ease-out 1s;}
+.lifetime-plans .shieldchk, .assured-plans .shieldchk { position: relative;right: -29px;top: -21px;}
+.close-btn:hover{transition: all ease-out 0.3s; transform: scale(1.4);}
+.learnMore {margin-left: -30px; font-weight: bold;font-size: 14px;}
+.terms-chkbox{vertical-align: text-bottom;}
+.terms-chkbox label{margin-left: 10px;}
+.greybg{overflow:hidden;}
+.greybg img{position: absolute;z-index: 0;background-color: red;top: 0px;left: 0;opacity: 0.1;transform: rotate(180deg);transform-origin: center;width: 1026px;height: 100%;object-fit: cover;object-position: 35% 100%; border-radius:25%;}
+
+
+@media screen and (max-width: 992px) {
+    .text-center-xs{text-align: center;}
+    .d-none-xs{display:none;}
+    .details-box{ padding: 25px 30px;}
+    .outerBannerdetails h1 {position: absolute;color: #fff;font-weight: 200;font-size: 1.5rem !important;text-align: center;top: 14%;z-index: 1002;}
+    .outerBannerdetails h1 strong {font-size: 1.5rem !important;font-weight: bold;}
+    .navbardiv .navbar{padding: 10px;}
+    form input {border: 1px solid #ccc;padding: 8px 10px;outline: none;display: block;margin: 15px 0;}
+    .calenderspan input {width: 54%;}
+    .calenderspan i{top:10px}
+    .terms-support{margin-top: 20px !important; padding: 0px;}
+    .header-top button {background-color: #1E4679;border: none;border-radius: 3px;padding: 5px 15px;margin: 10px;}
+    .terms-chkbox{display:flex;}
+    .header-top{line-height: 2;}
+    .banner-section{position: relative;}
+    .overlayClass{ position: absolute;top: 0;left: 0;width: 100%;height: 250px;background: rgba(10, 14, 20, 0.9);z-index: 1;opacity: 0.8;}
+ }
+
+@media screen and (min-width: 993px) {
+    .header-top, .navbardiv { padding: 0px 5%; }
+    .header-section { position: fixed; top: 0; z-index: 10002; width: 100%; }
+    .banner-section { position: relative; }
+    .banner-section .overlayClass { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(10, 14, 20, 0.9); z-index: 1; opacity: 0.8; }
+    .details-box { box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; background-color: #fff; width: 75%; height: 200px; margin: auto; position: relative; top: -40px; border-radius: 15px; padding: 25px 40px; }
+    .outerBannerdetails h1 { position: absolute; color: #fff; font-weight: 200; font-size: 3.5rem !important; text-align: center; top: 35%; z-index: 1002; }
+    .outerBannerdetails h1 strong { font-size: 3.5rem !important; font-weight: bold; }
+    .outerBannerdetails { position: absolute; top: 0; right: 0; left: 0; height: 100%; }
+    .bottom-section { height: 200px; position: absolute; bottom: 0px; background-color: #f5fbfb; width: 100%; z-index: 1; } 
+    form input { border: 1px solid #ccc; padding: 8px 10px; margin-right: 10px; outline:none;}
+    .calenderspan input { width: 12%; }
+    .header-top button { background-color: #1E4679; border: none; border-radius: unset; padding: 10px 15px; }
+}
