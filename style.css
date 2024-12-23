@@ -41,7 +41,7 @@ body { font-size: 13px !important; }
 .onlyrect { position: absolute;height: 609px;width: 0;border-right: 42px solid transparent;border-top: 55px solid transparent;border-bottom: 4px solid transparent;border-left: 90px solid #458eca;display: inline-block;bottom: 0px;right: 0px; }
     .onlyrect:before { content: "";position: absolute;top: -52px;left: -87px;border-right: 38px solid transparent;border-top: 55px solid transparent;border-bottom: 4px solid transparent;border-left: 85px solid #247ac1;height: 590px;}
 .hoverdetails { background-color: #247ac1; position: absolute; right: 0; min-height:700px;}
-.hoverdetails { padding: 45px 60px !important; }
+.hoverdetails { padding: 35px 60px !important; }
 .sphereimage { position: absolute; z-index: 1002; top: 12px; }
 .heart { font-size: 16px; position: relative; right: -18px; top: -5px; }
 .family { position: relative; top: 6px; right: 6px; }
@@ -61,7 +61,7 @@ body { font-size: 13px !important; }
 .custom-width-30 { width: 30% !important; transition: all ease-out 0.3s; cursor: pointer; }
 .outerlinesimages:last-child { border-right: none; }
 .hoverban { flex: 0 0 100%; padding: 0; }
-    .hoverban img { transform-origin: center; width: 1026px; height: 800px; object-fit: cover; object-position: 35% 100%; }
+    .hoverban img { transform-origin: center; width: 1026px; height: 7200px; object-fit: cover; object-position: 35% 100%; }
 .hoverbandup { position: relative; z-index: 1002; }
     .hoverbandup .blueoverlay { position: absolute; top: 0; background: linear-gradient(to bottom, transparent, #23bbf9); height: 100%; }
 .bluelaydetails { position: relative; top: 50%; padding: 0 20px; }
