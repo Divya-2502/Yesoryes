@@ -61,7 +61,7 @@ body { font-size: 13px !important; }
 .custom-width-30 { width: 30% !important; transition: all ease-out 0.3s; cursor: pointer; }
 .outerlinesimages:last-child { border-right: none; }
 .hoverban { flex: 0 0 100%; padding: 0; }
-    .hoverban img { transform-origin: center; width: 1026px; height: 7200px; object-fit: cover; object-position: 35% 100%; }
+    .hoverban img { transform-origin: center; width: 1026px; height: 720px; object-fit: cover; object-position: 35% 100%; }
 .hoverbandup { position: relative; z-index: 1002; }
     .hoverbandup .blueoverlay { position: absolute; top: 0; background: linear-gradient(to bottom, transparent, #23bbf9); height: 100%; }
 .bluelaydetails { position: relative; top: 50%; padding: 0 20px; }
